@@ -10,12 +10,12 @@ Blockchain is a decentralized ledger that securely records transactions across m
 - **`basics/`**: This directory includes essential blockchain and smart contract concepts. Much of the code here was originally written in the [Remix IDE](https://remix.ethereum.org/) as I explored Solidity basics, blockchain fundamentals, and simple contracts.
   
 
-## Running the Code
+<!-- ## Running the Code
 
 To explore and run the code in this repository:
 1. Install **Node.js** and **Truffle** (or another Ethereum development framework).
 2. Clone the repository.
-3. Open the desired folder (e.g., `basics/`) and review the `.sol` files. Follow standard steps for compiling and deploying using your preferred development environment, such as Remix IDE .
+3. Open the desired folder (e.g., `basics/`) and review the `.sol` files. Follow standard steps for compiling and deploying using your preferred development environment, such as Remix IDE . -->
 
 ## Useful Links
 
